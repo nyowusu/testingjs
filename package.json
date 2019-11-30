@@ -1,0 +1,23 @@
+{
+  "name": "testingjavascript",
+  "version": "1.0.0",
+  "description": "basics of testing javascript code",
+  "main": "simpletest.js",
+  "scripts": {
+    "test": "jest -- --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nyowusu/testingjs.git"
+  },
+  "keywords": [
+    "testing",
+    "javascript"
+  ],
+  "author": "nyowusu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyowusu/testingjs/issues"
+  },
+  "homepage": "https://github.com/nyowusu/testingjs#readme"
+}
